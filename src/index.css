@@ -1,0 +1,7 @@
+body {
+    background-color: #f1f1f1; /* or use #f8f9fa for Bootstrap's light */
+  }
+
+  .hover-bg-dark:hover {
+    background-color: #dee2e6 !important; /* Bootstrap grey-200/300 */
+  }
